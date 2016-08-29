@@ -1,0 +1,25 @@
+How do you do?
+OPTION:How do I do what?
+OPTION:I do just fine, thanks
+OPTION:Do be do be do
+SOLUTION:Grand
+How do you spell Charlywawa?
+OPTION:Charliewawa
+OPTION:Charlywahwah
+OPTION:Charlywhawha
+SOLUTION:Charlywawa
+Is this question 3?
+OPTION:No
+SOLUTION:Yes
+OPTION:Don't know
+OPTION:Who's counting?
+What's the capital of France?
+OPTION:Paris
+OPTION:F
+SOLUTION:This is a very old joke
+OPTION:It's not a very good joke
+What did you score on this quiz?
+OPTION:10
+OPTION:0
+SOLUTION:You tell me
+OPTION:4
